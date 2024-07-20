@@ -34,8 +34,11 @@ Licensed under the MIT License.
 Happy Coding! 🎉
 
 ![Screenshot (74)](https://github.com/user-attachments/assets/774a989e-e353-4600-9be9-f0338dbb3084)
-![Screenshot (74)](https://github.com/user-attachments/assets/e6c629ef-5d35-4afb-8882-949a0f6b3720)
-![Screenshot (74)](https://github.com/user-attachments/assets/6b9900e9-f411-462d-9195-2390f57c82c4)
+![Screenshot (75)](https://github.com/user-attachments/assets/57580961-5d37-4a3c-b723-176959e7261c)
+![Screenshot (76)](https://github.com/user-attachments/assets/d87947cf-aee6-4a58-a0da-14aa7a317c2c)
+
+
+
 
 
 
